@@ -119,11 +119,11 @@ global.author = '                「 HU TAO BOT-MD  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/ccacb93b49d85ffccfbd2.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/ccacb93b49d85ffccfbd2.jpg'
+global.thumb = 'https://telegra.ph/file/e315dcd63dd3eee1abead.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/e315dcd63dd3eee1abead.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/ccacb93b49d85ffccfbd2.jpg']
-global.fla = 'https://telegra.ph/file/ccacb93b49d85ffccfbd2.jpg'
+global.thumbs = ['https://telegra.ph/file/e315dcd63dd3eee1abead.jpg']
+global.fla = 'https://telegra.ph/file/e315dcd63dd3eee1abead.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',
