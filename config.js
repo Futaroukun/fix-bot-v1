@@ -58,9 +58,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283854551575', 'A7 RAFLI', true],
-  ['6285722157719', 'Hu Tao Bot-MD', true],
-  ['6288298925386', 'WH-MODS-BOT-V2', false],
+  ['6283854551575'],
+  ['6285722157719'],
+  ['6283854551575'],
   ['6283854551575', 'A7 RAFLI', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -101,7 +101,7 @@ global.APIKeys = { // APIKey Here
   'https://melcanz.com': 'melcantik',
   'https://neoxr-api.herokuapp.com': 'yntkts',
   'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://botstyle-api.herokuapp.com': 'Apikeymu',
+  'https://botstyle-api.herokuapp.com': 'Fa2GhFnr',
   'https://hardianto.xyz': 'hardianto',
   'https://violetics.pw': 'beta',
   'https://ziy.herokuapp.com' : 'xZiyy'
